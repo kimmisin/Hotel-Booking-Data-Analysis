@@ -95,5 +95,8 @@ FROM detailed_bookings
 WHERE is_canceled=0
 GROUP BY arrival_date_year, hotel
 ORDER BY hotel;
--- Both hotels had growing renvue from 2018 to 2019 but slowed in 2020. Decline may be due to COVID.
+-- Both hotels had growing renvue from 2018 to 2019 but slowed in 2020. Decline may be due to COVID but also due to an incomplete set of data for 2020.
+
+-- Transfer data to Power BI for dashboard creation. Query used:
+SELECT * FROM detailed_bookings WHERE reservation_status != 'Canceled'
 
