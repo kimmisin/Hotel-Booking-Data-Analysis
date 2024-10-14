@@ -7,6 +7,7 @@ Questions:
 2) Should the parking lot be expanded?
 3) What trends can we see in the data?
 \
+
 Process:
 1) Build a MySQL database
 2) Develop SQL queries
