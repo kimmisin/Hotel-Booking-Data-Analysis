@@ -17,6 +17,4 @@ Process:
 
 
 Conclusions:
-Both hotels' revenue grew from 2018-2019 but slowed in 2020. This trend can be due to COVID, however, the low revenue numbers for 2018 and 2020 can also be attributed to the lack of data for the full year.\
-The parking lot does not have to be expanded as not every guest booking required a parking space. The peak usage was 19% and trend line is flat.\
-Overall, we can see postive trends for the following: average daily rate, total nights booked, and discounts.
+Both hotels' revenue grew from 2018-2019 but slowed in 2020. This trend can be due to COVID, however, the low revenue numbers for 2018 and 2020 can also be attributed to the lack of data for the full year. The parking lot does not have to be expanded as not every guest booking required a parking space. The peak usage was 19% and trend line is flat. Overall, we can see postive trends for the following: average daily rate, total nights booked, and discounts.
